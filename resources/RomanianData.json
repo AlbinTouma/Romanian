@@ -1,0 +1,69 @@
+{
+"Verbs": [
+
+{   "Infinitive": "A fi",
+    "Definition": "To be",
+    "Simple Present": {
+        "I am": "Eu sunt",
+        "You are": "Tu Esti",
+        "He/She/it is": "El/ea este",
+        "We are": "Noi suntem",
+        "You are (plr)": "Sunteti",
+        "They are": "Sunt"
+    },
+    "Contractions": {
+            "I'm": "io-s, eu îs, io îs",
+            "He's/She's/It's": "e, i, îi",
+            "They're": "îs"
+        },
+    "Negative": 
+    {
+            "Simple": {
+                "I am not": "Eu nu sunt",
+                "You are not": "Tu nu esti",
+                "He/she/it is not": "El/ea nu este",
+                "We are not": "Noi nu suntem",
+                "You are not": "Voi nu sunteti",
+                "They are not": "Ei/ele nu sunt"
+            },
+            "Contracted": {
+                "I'm not": "nu-s, Io nu-s",
+                "He's/she's/it's not": "nu e, nu-i",
+                "They're not": "nu-s, nu îs "
+            }
+        
+    }
+},
+{   "Infinitive": "A avea",
+    "Definition": "To have",
+    "Simple Present": {
+        "I am": "Eu am",
+        "You are": "Tu ai",
+        "He/She/it is": "El/ea are",
+        "We are": "Noi avem",
+        "You are": "Voi aveti",
+        "They are": "Ei/ele au"
+    },
+    "Negative": {
+        "Simple": {
+            "I haven't": "Eu nu am",
+            "YpYou are not": "Tu nu ai",
+            "He/she/it is not": "El/ea nu are",
+            "We are not": "Noi nu avem",
+            "You are not": "Voi nu aveti",
+            "They are not": "Ei/ele nu au"
+        },
+        "Contracted": {
+            "I haven't": "eu n-am",
+            "You haven't": "tu n-ai",
+            "He/she/it hasn't": "el/ea n-are",
+            "We haven't": "Noi n-avem",
+            "You haven't": "Voi n-aveti",
+            "They haven't": "Ei/ele n-au"
+        }
+    }
+}
+
+]
+
+}
