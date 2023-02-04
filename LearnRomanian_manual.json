@@ -1,0 +1,23 @@
+{
+    "Level:""A1",
+    "Lesson": 1,
+    "Title": "The alphabet & Common Phrases",
+    "Pages": 11-16
+}
+
+{
+    "Level:""A1",
+    "Lesson": 2,
+    "Title": "Let's introduce ourselves",
+    "Pages": 16-22,
+    "AOS": {
+        "PersonalPronouns": {
+            "$ref": "./PartsOfSpeech.pronouns#/PersonalPronouns"
+        },
+        "Verbs": {
+            "A fi": "$ref": "./PartsOfSpeech.verb#/SimplePresent",
+            "A avea": "$ref": ".PartsOfSpeech.verb#/SimplePresent",
+            ""
+        }
+    }
+}
