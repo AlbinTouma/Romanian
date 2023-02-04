@@ -17,7 +17,6 @@
         "Verbs": {
             "A fi": "$ref": "./PartsOfSpeech.verb#/SimplePresent",
             "A avea": "$ref": ".PartsOfSpeech.verb#/SimplePresent",
-            ""
         }
     }
 }
