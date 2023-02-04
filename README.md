@@ -1,7 +1,20 @@
-# Romanian
+# Introduction to Romanian Project
 
-The idea is to learn Romanian while also learning about different ways to store and surface data. My goals are to: 
+The goal is to bring together language learning resources. 
+The app should help the user achieve objectives from different courses and textooks.  
 
+
+# Objectives
+The user should be able to 
+-Follow Learn Romanian Manual lessons Textbook and practice vocabulary
+-Lookup grammatical points
+-Lookup words
+-Practice words
+-Practice sentences
+-Revisit exercises
+
+# Why do I want to build this app and run it from the terminal?
+I want to build this app in order to:
 (a) build language learning habits, 
 (b) track language learning progress
 (c) learn to use git to work on a projects from different computers 
